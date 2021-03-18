@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+# twin.macro & Reakit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/docs/getting-started) & [Storybook](https://storybook.js.org/docs/react/get-started/introduction) with added libraries:
 
-## Available Scripts
+- Reakit
+ - https://reakit.io/
+ - https://github.com/reakit/reakit
+ - https://opencollective.com/reakit
+
+- Emotion
+ - https://emotion.sh/docs/introduction
+ - https://github.com/emotion-js/emotion
+ - https://opencollective.com/emotion
+
+- twin.macro
+ - https://github.com/ben-rogerson/twin.macro
+ - https://github.com/sponsors/ben-rogerson
+
+- tailwindcss
+ - https://tailwindcss.com/
+ - https://tailwindui.com/components
+
+... to make a twin.macro-reakit component library.
+
+## Available CRA Scripts
 
 In the project directory, you can run:
 
@@ -39,8 +59,31 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Available Storybook Scripts
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `npm run storybook`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+It will start Storybook locally and output the address. Depending on your system configuration, it will automatically open the address in a new browser tab and you'll be greeted by a welcome screen.
+
+## Todo Checklist
+
+A helpful checklist to gauge how your README is coming on what I would like to finish:
+
+- [ ] Lots of items! :)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+1. Fork this repository;
+2. Create your branch: `git checkout -b my-new-feature`;
+3. Commit your changes: `git commit -m 'Add some feature'`;
+4. Push to the branch: `git push origin my-new-feature`.
+
+**After your pull request is merged**, you can safely delete your branch.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
