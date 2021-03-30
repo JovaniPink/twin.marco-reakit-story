@@ -13,7 +13,7 @@
     "@emotion/react": "11.1.5",
     "@emotion/babel-plugin-jsx-pragmatic": "0.1.5",
     "tailwindcss": "2.0.4",
-    "twin.macro": "2.3.1"
+    "twin.macro": "2.3.2"
   },
   "devDependencies": {
     "@babel/core": "7.13.14",
