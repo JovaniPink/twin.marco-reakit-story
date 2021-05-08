@@ -10,7 +10,7 @@
     "framer-motion": "4.1.11",
     "lodash": "4.17.21",
     "@emotion/styled": "11.3.0",
-    "@emotion/react": "11.1.5",
+    "@emotion/react": "11.4.0",
     "@emotion/babel-plugin-jsx-pragmatic": "0.1.5",
     "tailwindcss": "2.1.2",
     "twin.macro": "2.4.1"
